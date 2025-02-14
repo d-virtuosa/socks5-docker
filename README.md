@@ -3,10 +3,9 @@
 > Based on https://github.com/brozeph/simple-socks
 
 # Install
+Clone repository
 
 Change username and password in `createServerWithAuthentication.js`
-
-Clone repository
 
 ```bash
 docker build . -t socks5-docker
