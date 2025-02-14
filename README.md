@@ -1,5 +1,7 @@
 # socks5-docker
 
+Simple socks5 server with auth in docker
+
 > Based on https://github.com/brozeph/simple-socks
 
 # Install
